@@ -1,2 +1,1 @@
-# git-first
-this is practice git repo
+this is my first git repo
